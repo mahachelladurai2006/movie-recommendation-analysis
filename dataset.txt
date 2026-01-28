@@ -1,0 +1,15 @@
+Dataset: movie Recommendation analysis
+Csv
+UserID,MovieID,MovieName,Genre,Rating
+U001,M001,Inception,Sci-Fi,5
+U001,M002,Titanic,Romance,4
+U002,M001,Inception,Sci-Fi,4
+U002,M003,Avengers,Action,5
+U003,M002,Titanic,Romance,3
+U003,M004,Interstellar,Sci-Fi,5
+U004,M003,Avengers,Action,4
+U004,M005,Jumanji,Adventure,3
+U005,M001,Inception,Sci-Fi,5
+U005,M004,Interstellar,Sci-Fi,4
+U006,M006,Bahubali,Action,5
+U006,M002,Titanic,Romance,3
